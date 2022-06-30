@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Android_Testing</string>
+    <string name="srt_success">Success</string>
+    <string name="srt_failure">Failure</string>
+</resources>
